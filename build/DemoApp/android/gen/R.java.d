@@ -1,0 +1,23 @@
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/gen/com/cclerville/demoapp/R.java \
+ : /Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-hdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-hdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-ldpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-ldpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-mdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-mdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-xhdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/drawable-xhdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/layout/main.xml \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/values/strings.xml \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/res/xml/config.xml \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-hdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-hdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-ldpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-ldpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-mdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-mdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-xhdpi/ic_launcher.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/res/drawable-xhdpi/icon.png \
+/Applications/MAMP/htdocs/DemoApp/build/DemoApp/android/bin/AndroidManifest.xml \

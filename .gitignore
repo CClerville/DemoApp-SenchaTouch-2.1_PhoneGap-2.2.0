@@ -1,0 +1,5 @@
+.sencha/*
+*.zip
+.idea
+*.DS_Store
+.architect
