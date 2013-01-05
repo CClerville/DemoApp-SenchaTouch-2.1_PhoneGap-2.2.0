@@ -1,6 +1,5 @@
-
 A simple Android demoapp built with Sencha Touch 2.1 and packaged with PhoneGap 2.2.0. 
-The app demonstrates the use of PhoneGap's Camera API to access the camera.
+The app demonstrates the use of PhoneGap's Camera API to access the camera on your Android device.
 
 Screenshots:
 ============
