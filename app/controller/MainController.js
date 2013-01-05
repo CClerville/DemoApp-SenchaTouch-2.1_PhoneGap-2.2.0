@@ -49,9 +49,6 @@ Ext.define('DemoApp.controller.MainController', {
         };
 
         imgContainer.add(img);
-
-        // return the newly added image
-        return imgContainer.items[0];
     },
 
     capturePhoto : function () {
@@ -59,7 +56,7 @@ Ext.define('DemoApp.controller.MainController', {
             pictureSource, // picture source
             destinationType, // sets the format of returned value
             deleteBtn = me.getDeleteBtn(),
-            photoComponent = ( me.getImg() ? me.getImg() : me.createImg() );
+            photoComponent = me.getImg();
 
         // Wait for Cordova to connect with the device
         document.addEventListener("deviceready", onDeviceReady, false);
